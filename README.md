@@ -7,7 +7,7 @@ Display catalogues with 3d images
 engaging Ar games including FPS
 Navigation App
 <p align="center">
-  <img src="arcore_example-master/lib/images/ARCore-Brain.jpg" width="350" title="ARCore Brain Image">
+  <img src="arcore_example-master/ARCore-Brain.jpg" width="350" title="ARCore Brain Image">
 </p>
  
 
