@@ -6,4 +6,4 @@ The app can be modified to do the following;
 Display catalogues with 3d images
 engaging Ar games including FPS
 Navigation App
-![ARCore-Brain](https://raw.githubusercontent.com/sandei-travolta/arcore_example-master/master/rcore_example-master\lib\images/ARCore-Brain.jpg)
+![ARCore-Brain](https://raw.githubusercontent.com/sandei-travolta/arcore_example-master/master/arcore_example-master/lib/images/ARCore-Brain.jpg)
