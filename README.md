@@ -10,4 +10,3 @@ Navigation App
   <img src="arcore_example-master/ARCore-Brain.jpg" width="350" title="ARCore Brain Image">
 </p>
  
-
